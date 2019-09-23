@@ -6,9 +6,9 @@ This public code repository contains python code for solving some of the common 
   2.	Bivariate Data Analysis
   3.	Outlier Detection - Using Mean and Standard Deviation
   4.	Outlier Detecion - Using Intra Quartile Range
-	5.	Outlier Detection - Using Z-Score
-	6.  Regression - Height Weight Prediction
-	7.	Regression - Boston Hosuing Price Prediction
-	8.	Classification - Kaggle - Titanic Passenger's Suvival Prediction
+  5.	Outlier Detection - Using Z-Score
+  6.	Regression - Height Weight Prediction
+  7.	Regression - Boston Hosuing Price Prediction
+  8.	Classification - Kaggle - Titanic Passenger's Suvival Prediction
       
 ### Good luck and happy learning!
