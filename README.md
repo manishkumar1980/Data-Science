@@ -10,5 +10,6 @@ This public code repository contains python code for solving some of the common 
   6.	Regression - Height Weight Prediction
   7.	Regression - Boston Hosuing Price Prediction
   8.	Classification - Kaggle - Titanic Passenger's Suvival Prediction
+  9.  Regression - Predict Ease of doing business overall Rank for any country
       
 ### Good luck and happy learning!
